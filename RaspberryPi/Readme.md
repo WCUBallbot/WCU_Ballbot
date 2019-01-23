@@ -1,4 +1,4 @@
-##raspberryPi based ballbot code.
+## raspberryPi based ballbot code.
 
 **Language**: c++
 
