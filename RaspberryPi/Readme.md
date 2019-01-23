@@ -1,7 +1,9 @@
-## raspberryPi based ballbot code.
+## RaspberryPi based ballbot code.
 
 **Language**: c++
+**Main External Libraries**: wiringPi 
 
+### Classes
 
 **AccelStepper**: Models a stepper motor capable of moving linearly with given acceleration and distance
 
