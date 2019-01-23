@@ -1,6 +1,7 @@
-This is the directory for the raspberryPi based ballbot code.
+**raspberryPi based ballbot code.
 
-Language: c++
+**Language**: c++
+
 
 **AccelStepper**: Models a stepper motor capable of moving linearly with given acceleration and distance
 
